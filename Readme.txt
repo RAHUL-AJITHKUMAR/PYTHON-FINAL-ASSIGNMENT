@@ -20,5 +20,5 @@ Then we proceed for finding out which group is predominant in the company, and b
 
 Then a study is done to identify Team and position with highest salary which shows that team Los Angeles Clippers have the highest salary expenditure whereas position PG has the highest salary expenditure
 
-Finally the correlation between Age and Salary has been graphically depicted using an interactive Visual representation.
+Finally the correlation between Age and Salary have been graphically depicted using an interactive Visual representation.
 
